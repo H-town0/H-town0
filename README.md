@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**H-town0/H-town0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Huston and I am currently a student just looking to learn more.
 
 Here are some ideas to get you started:
 
